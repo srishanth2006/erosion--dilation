@@ -22,8 +22,8 @@ Dilate the image
 ## Program:
 
 ```
-# Name:P.Senthil Arunachalam
-# Reg No:212224240147
+# Name: SRISHANTH J
+# Reg No:212223240160
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
